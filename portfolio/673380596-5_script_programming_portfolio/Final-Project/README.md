@@ -10,9 +10,3 @@
 - **ลิงก์ GitHub:** https://github.com/144P75/script_project
 - **เว็บออนไลน์:** https://virtual-pet-companion.onrender.com/
 - **สมาชิกกลุ่ม:** พรีมภัทร ภาวัฒนวคุณ (673380594-9), พิชยา สิทธิพันธ์ (673380596-5), มุกดา บุญประจันทร์ (673380598-1)
-
-> โปรเจกต์นี้อยู่ใน repository ของกลุ่ม จึงใส่เป็นลิงก์ตามที่อาจารย์อนุญาตแทนการย้ายโปรเจกต์มาไว้ที่นี่
-
-## หมายเหตุ
-
-งาน Lab "Final Project Development & Presentation" ของสัปดาห์ที่ 12 (Enhanced Task Manager CLI) อยู่ในโฟลเดอร์ [`Lab/Week12`](../Lab/Week12)
