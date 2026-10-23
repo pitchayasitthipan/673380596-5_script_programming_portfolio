@@ -7,9 +7,9 @@
 
 | โฟลเดอร์ | เนื้อหา |
 | :--- | :--- |
-| [`Lab/`](./Lab) | Lab ประจำสัปดาห์ (Week 1, 2, 4, 5, 6, 12) |
-| [`LabX-Basic/`](./LabX-Basic) | LabX Basic: Lab7 (Web Scraping), Lab8 (CSV/JSON), Lab10 (Excel), Lab11 (PDF/Word) |
-| [`LabX-Advance/`](./LabX-Advance) | LabX Advance: Lab AD1 (Agentic Web Scraper) |
+| [`Lab/`](./Lab) | Lab ประจำสัปดาห์ |
+| [`LabX-Basic/`](./LabX-Basic) | LabX Basic |
+| [`LabX-Advance/`](./LabX-Advance) | LabX Advance |
 | [`Mini-Project/`](./Mini-Project) | Mini Project: ระบบแจ้งเตือนเครื่องซักผ้าร้านหยอดเหรียญ (ลิงก์ไปยัง repository ของกลุ่ม) |
 | [`Final-Project/`](./Final-Project) | Final Project: Virtual Pet Companion (ลิงก์ไปยัง repository ของกลุ่ม) |
 | [`Certificate/`](./Certificate) | ภาพ certificate จาก https://www.netacad.com/ |
