@@ -12,7 +12,7 @@
 | [`LabX-Advance/`](./LabX-Advance) | LabX Advance: Lab AD1 (Agentic Web Scraper) |
 | [`Mini-Project/`](./Mini-Project) | Mini Project: ระบบแจ้งเตือนเครื่องซักผ้าร้านหยอดเหรียญ (ลิงก์ไปยัง repository ของกลุ่ม) |
 | [`Final-Project/`](./Final-Project) | Final Project: Virtual Pet Companion (ลิงก์ไปยัง repository ของกลุ่ม) |
-| [`Certificate/`](./Certificate) | ภาพ certificate จาก https://www.netacad.com/ (Python Essentials 1) |
+| [`Certificate/`](./Certificate) | ภาพ certificate จาก https://www.netacad.com/ |
 
 ## รายละเอียดแต่ละโฟลเดอร์
 
