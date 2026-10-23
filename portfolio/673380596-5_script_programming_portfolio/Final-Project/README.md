@@ -1,0 +1,18 @@
+# Final Project
+
+**ชื่อ-นามสกุล:** นส.พิชยา สิทธิพันธ์  **รหัสนักศึกษา:** 673380596-5  **Section:** 1
+
+## Final Project ของกลุ่ม: Virtual Pet Companion (CLI + Web Application)
+
+ระบบจำลองสัตว์เลี้ยงเสมือนจริงที่เล่นได้ทั้งบน Terminal/CLI และหน้าเว็บ พัฒนาด้วย Python ตามหลัก OOP และ Modular Architecture
+(Time-based Decay, จัดการสัตว์เลี้ยงหลายตัว, Cat Facts API, AI Companion, CI/CD)
+
+- **ลิงก์ GitHub:** https://github.com/144P75/script_project
+- **เว็บออนไลน์:** https://virtual-pet-companion.onrender.com/
+- **สมาชิกกลุ่ม:** พรีมภัทร ภาวัฒนวคุณ (673380594-9), พิชยา สิทธิพันธ์ (673380596-5), มุกดา บุญประจันทร์ (673380598-1)
+
+> โปรเจกต์นี้อยู่ใน repository ของกลุ่ม จึงใส่เป็นลิงก์ตามที่อาจารย์อนุญาตแทนการย้ายโปรเจกต์มาไว้ที่นี่
+
+## หมายเหตุ
+
+งาน Lab "Final Project Development & Presentation" ของสัปดาห์ที่ 12 (Enhanced Task Manager CLI) อยู่ในโฟลเดอร์ [`Lab/Week12`](../Lab/Week12)

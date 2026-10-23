@@ -1,0 +1,26 @@
+START
+  INPUT choice_1 ("Go left or right?")
+
+  IF choice_1 == "left":
+      PRINT "You find a river."
+      INPUT choice_2 ("Build a raft or swim?")
+      IF choice_2 == "raft":
+          PRINT "You cross safely!"
+      ELIF choice_2 == "swim":
+          PRINT "A crocodile appears!"
+      ELSE:
+          PRINT "GAME OVER..."
+
+  ELIF choice_1 == "right":
+      PRINT "You enter a dark cave."
+      INPUT choice_2 ("Light a torch or walk in dark?")
+      IF choice_2 == "torch":
+          PRINT "You discover hidden treasure!"
+      ELIF choice_2 == "dark":
+          PRINT "You trip and get hurt."
+      ELSE:
+          PRINT "GAME OVER..."
+
+  ELSE:
+      PRINT "GAME OVER..."
+END
