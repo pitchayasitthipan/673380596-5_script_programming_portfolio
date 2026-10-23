@@ -47,12 +47,6 @@
 
 (งาน Lab Week 12 Final Project Development: Enhanced Task Manager CLI อยู่ใน [`Lab/Week12`](./Lab/Week12))
 
-## หมายเหตุเกี่ยวกับโครงสร้างและงานที่ไม่ได้ย้ายมา
-- **Lab Week 3 และ Week 9** ยังไม่มีไฟล์งานใน repository นี้
-- **Mini Project และ Final Project** เป็นงานกลุ่มที่อยู่ใน GitHub ของกลุ่ม จึงใส่เป็นลิงก์ (ไฟล์ `.md`) ตามที่อาจารย์อนุญาต
-- โฟลเดอร์ Lab ประจำสัปดาห์ใช้ชื่อ `WeekN` ส่วน LabX ใช้ชื่อ `LabN-Basic` / `Lab-AD1-Advance` เพื่อให้ตรงกับชื่อ Lab ที่อาจารย์กำหนด
-- งานแต่ละชิ้นรันได้ด้วย `python main.py` ในโฟลเดอร์ของงานนั้น (งานที่ใช้ไลบรารีเพิ่มมีไฟล์ `requirements.txt` ให้ติดตั้งด้วย `pip install -r requirements.txt`)
-
 ## สิ่งที่ได้เรียนรู้จากวิชานี้
 
 **พื้นฐานการเขียนโปรแกรมด้วย Python**
